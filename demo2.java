@@ -3,7 +3,7 @@ public class demo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
- System.out.println("new java class created");
+ System.out.println("new java class created and i want to check change");
 	}
 
 }
