@@ -1,1 +1,20 @@
+B
+i a new conflict checking branch fiule created
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
  a new file created and edited on new branch twm
