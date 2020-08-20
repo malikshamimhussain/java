@@ -3,7 +3,7 @@ public class Demo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-            System.out.println("hello wotrld but i do some additions");
+            System.out.println("hello wotrld but i do some additions after pushing the file");
 	}
 
 }
