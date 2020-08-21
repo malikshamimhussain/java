@@ -1,0 +1,26 @@
+i a new change for example of rebase from master branch
+ 
+A new commit created by changing in same file by master
+a new file created and edited on new branch twm
+
+B
+i a new conflict checking branch fiule created
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+ a new file created and edited on new branch twm
+
